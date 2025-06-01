@@ -62,6 +62,7 @@ Circle5/
 ├── Services/
 ├── Utilities/
 ├── Extensions/
+```
 ## 🔮 What's Next?
 
 Planned Features & Improvements for Future Versions:
@@ -74,4 +75,4 @@ Planned Features & Improvements for Future Versions:
 
 ---
 
-> ✅ Feel free to star ⭐ this repo or follow my journey as I continue building Circle5!
+
