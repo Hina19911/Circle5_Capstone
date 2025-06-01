@@ -5,6 +5,13 @@
 > “Social media should help you grow, not scroll endlessly.”
 
 ---
+## ✨ App Screenshots
+
+| Home | Explore | Edit Profile |
+|------|---------|--------------|
+| ![Home](1.PNG) | ![Explore](2.PNG) | ![Edit](3.PNG) |
+
+> These are real screenshots of Circle5 running in the iOS Simulator, built entirely using SwiftUI.
 
 ## 🚀 Features
 
@@ -55,3 +62,16 @@ Circle5/
 ├── Services/
 ├── Utilities/
 ├── Extensions/
+## 🔮 What's Next?
+
+Planned Features & Improvements for Future Versions:
+
+- 💬 **Comments** — Add replies to threads and profile activity
+- 🔔 **Push Notifications** — For new followers and comments
+- 🛠 **Settings Page** — Change theme, privacy, and preferences
+- 🤝 **Invite-Only Mode** — For building a close beta community
+- 🎨 **More UI Polishing** — Animations, transitions, accessibility improvements
+
+---
+
+> ✅ Feel free to star ⭐ this repo or follow my journey as I continue building Circle5!
